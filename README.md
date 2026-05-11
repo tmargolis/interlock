@@ -95,7 +95,7 @@ Read top-to-bottom: from "what is in the fleet" to "what did the fleet do, and w
 
 The protocol foundations are open standards: A2A for agent-to-agent communication and task lifecycle, MCP for tool and data connectivity, and OpenTelemetry for unified observability across vendor boundaries.
 
-See [PUBLIC_ARCHITECTURE.md](PUBLIC_ARCHITECTURE.md) for more on information and layer responsibilities.
+See [VISION.md](VISION.md) for the full vision and human-centered design philosophy, and [PUBLIC_ARCHITECTURE.md](PUBLIC_ARCHITECTURE.md) for more on positioning and layer responsibilities.
 
 ---
 
