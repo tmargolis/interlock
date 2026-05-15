@@ -13,8 +13,8 @@ The question isn't whether this will happen. It's whether the infrastructure ben
 Interlock is a bet that this layer — the **agent control plane** — should be:
 
 - **Vendor-neutral** — not owned by a cloud provider or LLM vendor
-- **Protocol-first** — built on open, converging standards as the interoperability substrate
-- **Applicable at every scale** — spanning individual principals, teams, and multi-organization agent ecosystems
+- **Standards-native** — built on open, converging standards as the interoperability substrate
+- **Applicable at every scale** — for individuals, families/teams, and multi-organization agent ecosystems
 - **Human-centered by design** — preserving oversight, accountability, and the ability to step back in
 
 ---
@@ -95,7 +95,7 @@ Read top-to-bottom: from "what is in the fleet" to "what did the fleet do, and w
 
 The protocol foundations are open standards: A2A for agent-to-agent communication and task lifecycle, MCP for tool and data connectivity, and OpenTelemetry for unified observability across vendor boundaries.
 
-See [VISION.md](VISION.md) for the full vision and human-centered design philosophy, and [PUBLIC_ARCHITECTURE.md](PUBLIC_ARCHITECTURE.md) for more on positioning and layer responsibilities.
+See [VISION.md](VISION.md) for the full vision and human-centered design philosophy, and [PUBLIC_ARCHITECTURE.md](PUBLIC_ARCHITECTURE.md) for more on scope and layer responsibilities.
 
 ---
 
@@ -111,4 +111,4 @@ The project is in active development. The design surface has been thoroughly res
 
 If you are working on related problems — agent interoperability, governance infrastructure, multi-organization agent coordination, or the human-impact questions that come with a heavily agent-mediated world — I am interested in the conversation.
 
-Contact: [tmargo@gmail.com](mailto:tmargo@gmail.com)
+Contact: [info@toddmargolis.net](mailto:info@toddmargolis.net)
