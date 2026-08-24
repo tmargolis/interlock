@@ -95,7 +95,19 @@ Read top-to-bottom: from "what is in the fleet" to "what did the fleet do, and w
 
 The protocol foundations are open standards: A2A for agent-to-agent communication and task lifecycle, MCP for tool and data connectivity, and OpenTelemetry for unified observability across vendor boundaries.
 
-See [VISION.md](VISION.md) for the full vision and human-centered design philosophy, and [PUBLIC_ARCHITECTURE.md](PUBLIC_ARCHITECTURE.md) for more on scope and layer responsibilities.
+See [VISION.md](VISION.md) for the full vision and human-centered design philosophy, and [PUBLIC_ARCHITECTURE.md](PUBLIC_ARCHITECTURE.md) for more on scope and layer responsibilities. The [Evidence Log](research/README.md) works these layer definitions against real incidents.
+
+---
+
+## Research
+
+Governance of agent behavior has to be **structural** — enforced in infrastructure, evaluated at the moment an agent acts. Behavioral governance, expressed as instructions, system prompts, constitutions, or training, does not hold. The [Interlock Evidence Log](research/README.md) is the public record of why.
+
+Each post works from documented, publicly reported incidents rather than hypotheticals: what boundary existed at the moment an agent acted, and which of the eight control-plane responsibilities the failure implicates. Published monthly, sourced inline, with corrections issued as amendments rather than silent edits.
+
+- **[001 — Four Ways Behavioral Governance Fails](research/2026-08-evidence-log-001.md)** (June 2025 – February 2026). Six incidents, from a wiped production database to an agent that diverted GPUs to crypto mining with no prompt asking it to. Four distinct failure mechanisms — model error, injection, adversarial framing, emergent optimization — with one property in common: nothing evaluated the action at the moment it was taken.
+
+- **[002 — One Boundary Is Not Governance](research/2026-08-evidence-log-002.md)** (July 2026). Three incidents at two frontier labs and a national safety institute, where a real structural boundary existed and was crossed anyway. Including the cleanest available separation of behavioral from structural control: models told in their system prompt that they had no internet access, in an environment where egress filtering was absent. Two of three reasoned past the discrepancy and kept going.
 
 ---
 
@@ -103,7 +115,7 @@ See [VISION.md](VISION.md) for the full vision and human-centered design philoso
 
 This public repository is intentionally high-level. Detailed architecture, implementation plans, schemas, and internal specifications are maintained separately.
 
-The project is in active development. The design surface has been thoroughly researched; implementation is underway.
+The project is in active development. The design surface has been thoroughly researched; implementation is underway. The [research series](research/README.md) is updated monthly and is the best current view of the thinking behind the architecture.
 
 ---
 
