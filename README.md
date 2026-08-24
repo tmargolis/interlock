@@ -105,9 +105,9 @@ Governance of agent behavior has to be **structural** — enforced in infrastruc
 
 Each post works from documented, publicly reported incidents rather than hypotheticals: what boundary existed at the moment an agent acted, and which of the eight control-plane responsibilities the failure implicates. Published monthly, sourced inline, with corrections issued as amendments rather than silent edits.
 
-- **[001 — Four Ways Behavioral Governance Fails](research/2026-08-evidence-log-001.md)** (June 2025 – February 2026). Six incidents, from a wiped production database to an agent that diverted GPUs to crypto mining with no prompt asking it to. Four distinct failure mechanisms — model error, injection, adversarial framing, emergent optimization — with one property in common: nothing evaluated the action at the moment it was taken.
+- **[Four Ways Behavioral Governance Fails](research/2026-08-evidence-log-001.md)** (June 2025 – February 2026). Six incidents, from a wiped production database to an agent that diverted GPUs to crypto mining with no prompt asking it to. Four distinct failure mechanisms — model error, injection, adversarial framing, emergent optimization — with one property in common: nothing evaluated the action at the moment it was taken.
 
-- **[002 — One Boundary Is Not Governance](research/2026-08-evidence-log-002.md)** (July 2026). Three incidents at two frontier labs and a national safety institute, where a real structural boundary existed and was crossed anyway. Including the cleanest available separation of behavioral from structural control: models told in their system prompt that they had no internet access, in an environment where egress filtering was absent. Two of three reasoned past the discrepancy and kept going.
+- **[One Boundary Is Not Governance](research/2026-08-evidence-log-002.md)** (July 2026). Three incidents at two frontier labs and a national safety institute, where a real structural boundary existed and was crossed anyway. Including the cleanest available separation of behavioral from structural control: models told in their system prompt that they had no internet access, in an environment where egress filtering was absent. Two of three reasoned past the discrepancy and kept going.
 
 ---
 
