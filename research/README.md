@@ -20,10 +20,10 @@ Sources are cited inline and listed at the end of every post. Corrections are pu
 ## Posts
 
 
-| Title                                                                | Period covered      | Argument                                                                                                                      |
-| -------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| [Four Ways Behavioral Governance Fails](2026-08-evidence-log-001.md) | Jun 2025 – Feb 2026 | Six incidents, four distinct failure mechanisms, one common property: nothing evaluated the action at the moment it was taken |
-| [One Boundary Is Not Governance](2026-08-evidence-log-002.md)        | Jul 2026            | Three frontier-lab and safety-institute incidents where a real structural boundary existed — and was not enough               |
+| Title                                                                             | Period covered      | Argument                                                                                                                      |
+| --------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| [Four Ways Behavioral Governance Fails](four-ways-behavioral-governance-fails.md) | Jun 2025 – Feb 2026 | Six incidents, four distinct failure mechanisms, one common property: nothing evaluated the action at the moment it was taken |
+| [One Boundary Is Not Governance](one-boundary-is-not-governance.md)               | Jul 2026            | Three frontier-lab and safety-institute incidents where a real structural boundary existed — and was not enough               |
 
 
 
