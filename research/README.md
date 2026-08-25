@@ -15,7 +15,6 @@ Each post works from documented, publicly reported incidents — not hypothetica
 
 Answering the second question consistently, across incidents that look nothing alike on the surface, is what turns an incident list into a set of requirements. Each post closes by stating what the record establishes.
 
-Sources are cited inline and listed at the end of every post. Corrections are published as amendments, never as silent edits.
 
 ## Posts
 
@@ -26,6 +25,7 @@ Sources are cited inline and listed at the end of every post. Corrections are pu
 | [One Boundary Is Not Governance](one-boundary-is-not-governance.md)               | Jul 2026            | Three frontier-lab and safety-institute incidents where a real structural boundary existed — and was not enough               |
 
 
+*Sources are cited inline and listed at the end of every post. Corrections are published as amendments, never as silent edits.*
 
 
 ## Contact
