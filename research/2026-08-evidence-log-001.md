@@ -1,7 +1,7 @@
 # Evidence Log 001 — Four Ways Behavioral Governance Fails
 
 **Published:** August 2026
-**Series:** [Interlock Evidence Log](README.md) · Post 1 of 2
+**Series:** [Interlock Evidence Log](README.md)
 **Period covered:** June 2025 – February 2026
 
 ---
