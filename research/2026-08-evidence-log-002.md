@@ -1,7 +1,7 @@
 # Evidence Log 002 — One Boundary Is Not Governance
 
 **Published:** August 2026
-**Series:** [Interlock Evidence Log](README.md) · Post 2 of 2
+**Series:** [Interlock Evidence Log](README.md)
 **Period covered:** July 2026
 
 ---
